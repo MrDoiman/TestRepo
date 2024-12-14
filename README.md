@@ -1,5 +1,5 @@
 # TestRepo
-## Updated: Dec 2024 - .USDZ file interpretation in iPhone.
+## Updated: Dec 2024 - .USDZ file interpretation on iPhone.
 
 ### Issue:
 When you try to access to an .USDZ file directly from the browser, most hosts, automatically download the file.
